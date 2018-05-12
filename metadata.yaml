@@ -1,0 +1,34 @@
+_repo: Tommy-Wideawake_39802
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bashford, H. H. (Henry Howarth), Sir
+    aliases:
+    - Bashford, Henry Howarth, Sir
+    - Bashford, Henry
+    birthdate: 1880
+    deathdate: 1961
+    gutenberg_agent_id: '37411'
+    url: http://www.gutenberg.org/2009/agents/37411
+description: ''
+gutenberg_issued: '2012-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39802'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Older men -- Fiction'
+- !lcsh 'Bachelors -- Fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- Fiction'
+- !lcsh 'Guardian and ward -- Fiction'
+- !lcsh 'Friendship -- Fiction'
+- !lcsh 'Boys -- Fiction'
+title: Tommy Wideawake
+url: http://www.gutenberg.org/ebooks/39802
